@@ -1,22 +1,42 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Graph-Structured Optimization with Multi-Parametric Programming Surrogates for Benders Decomposition<br />2025 AIChE Annual Meeting; Boston, MA",
+    42.3588336,
+    -71.0578303
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "ReLU Neural Network-based Explicit Model Predictive Control (MPC)<br />Data Science Research Bazaar 2025; Madison, WI",
+    43.07469,
+    -89.3841663
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Multi-Market Bidding and Demand Response for Redox Reservoir-Based Electrochemical Devices Using Two-Stage Stochastic Optimization<br />2025 AIChE Annual Meeting; Boston, MA",
+    42.3588336,
+    -71.0578303
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Accelerating Distributed MPC Via Facet Properties: Faster Computation with Lower Communication Overhead<br />2025 AIChE Annual Meeting; Boston, MA",
+    42.3588336,
+    -71.0578303
+  ],
+  [
+    "Iteration-free Cooperative Distributed Model Predictive Control through Multiparametric Programming<br />Texas-Wisconsin-California Control Consortium (TWCCC), Fall 2024 Meeting; Madison, WI",
+    43.07469,
+    -89.3841663
+  ],
+  [
+    "ReLU-Neural Network-based Explicit MPC: Case Study of Wastewater Treatment Plant<br />Texas-Wisconsin-California Control Consortium (TWCCC), Fall 2024 Meeting; Madison, WI",
+    43.07469,
+    -89.3841663
+  ],
+  [
+    "Optimal Power Dispatch of a Hybrid Vehicle through Multiparametric Mixed-Integer Programming<br />Texas-Wisconsin-California Control Consortium (TWCCC), Fall 2025 Meeting; Madison, WI",
+    43.07469,
+    -89.3841663
+  ],
+  [
+    "Benders Decomposition using Graph Modeling and Multi-Parametric Programming<br />Texas-Wisconsin-California Control Consortium (TWCCC), Fall 2025 Meeting; Madison, WI",
+    43.07469,
+    -89.3841663
   ]
 ];
